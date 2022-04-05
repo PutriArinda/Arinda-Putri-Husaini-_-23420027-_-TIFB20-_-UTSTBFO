@@ -1,2 +1,9 @@
-# Arinda-Putri-Husaini-_-23420027-_-TIFB20-_-UTSTBFO
-TOKENISASI
+# 23420027 Tokenisasi
+Simple Tokenization in HTML and JavaScript.
+
+# UTS Teori Bahasa Formal dan Otomata
+
+Nama      : Arinda Putri Husaini </br>
+NIM       : 23420027 </br>
+Prodi     : Teknik Informatika</br>
+Angkatan  : 2020 B Malam</br>
